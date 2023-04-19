@@ -1,0 +1,13 @@
+
+> javascript-lab@1.0.0 test
+> mocha --timeout 5000 -R mocha-multi --reporter-options spec=-,json=.results.json
+
+
+
+  index.js
+After the DOM has loaded
+    ✓ should change the text on the page when DOM content has loaded
+
+
+  1 passing (251ms)
+
